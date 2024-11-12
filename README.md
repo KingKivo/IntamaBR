@@ -1,2 +1,2 @@
 # IntamaBR
-my own personal version of Zest by Orion on IOS. Much like the inspiration, it will also be module based.
+my own personal version of Zest by Orion on IOS. Much like the inspiration, it will also be module based. To be honest I mainly started this project for my own interests and to make a private app for my close circle. But in planning it out in my head I also want to polish my programming skills and get better and learn more and I think documenting it here will be helpful to that. Any insights or help will be infinitly appreciated. 
